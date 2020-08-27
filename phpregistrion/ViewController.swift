@@ -18,6 +18,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var txtpassword: UITextField!
     
     @IBOutlet weak var txtmob: UITextField!
+    var c  = 10;
+    
     
     override func viewDidLoad() {
         super.viewDidLoad()
