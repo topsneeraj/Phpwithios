@@ -19,6 +19,8 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var txtmob: UITextField!
     var c  = 10;
+    var k  = 50;
+    
     
     
     override func viewDidLoad() {
