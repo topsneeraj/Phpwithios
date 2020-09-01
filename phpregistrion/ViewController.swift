@@ -21,8 +21,6 @@ class ViewController: UIViewController {
     var c  = 10;
     var k  = 50;
     
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         
